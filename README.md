@@ -1,4 +1,5 @@
 # Machine Learning in Python
 - [x] Linear Regression
-- [ ] Logistic Regression
-- [ ] Neural Network
+- [x] Logistic Regression
+- [ ] Neural Networks
+- [ ] Support Vector Machines
